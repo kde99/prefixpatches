@@ -1,0 +1,11 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="1" quality="experimental">
+    <name>Alphawarrior's patches</name>
+    <description>Patches for stuff that fails on prefix</description>
+    <owner>
+      <email>krisztian99@gancs.hu</email>
+      <name>Gáncs Krisztián</name>
+    </owner>
+    <source type="git">https://github.com/kde99/prefixpatches.git</source>
+  </repo>
+</repositories>
